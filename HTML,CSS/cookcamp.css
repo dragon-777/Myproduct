@@ -1,0 +1,196 @@
+body{
+    margin:0 auto;
+    background-color:#f5f5dd;
+}
+header{
+    border-bottom:solid #cccccc 0.1px ;
+    background-color:white;
+}
+#header{
+    margin:0 auto;
+    width:960px;
+}
+.CookCamp{
+    margin-top:10px;
+}
+#submit{
+    height:25px;
+    float:right;
+    margin-top:25px;
+}
+#search{
+    height:25px;
+    float:right;
+    margin-right:4px;
+    text-align:center;
+    margin-top:25px;
+}
+#logo{
+    color:#664433;
+    margin-top:0px;
+}
+#top-menu{
+    margin-top:5px;
+    margin-bottom:5px;
+    display:flex;
+}
+.search{
+    color:#664433;
+    flex:1;
+    text-align:center;
+}
+.border-right{
+    border-right:solid #cccccc 0.1px ;
+}
+a{
+    text-decoration:none;
+}
+article{
+     margin:0 auto;
+     width:960px;
+}
+h1{
+     margin-top:0px;
+}
+#mainView{
+    width:960px;
+}
+h2{
+    color:white;
+    background-color:#33ff00;
+    padding-left:40px;
+    background-image:url("dish.png");
+    background-repeat:no-repeat;
+    background-position:15px 5px;
+    border-radius:20px;
+    font-size:20px;
+    padding-top:3px;
+    padding-bottom:3px;
+}
+#nav{
+    float:left;
+    margin-right:10px;
+}
+#cooking-recipe{
+    background-color:white;
+    padding:1px 10px;
+    margin-bottom:15px;
+    width:170px;
+}
+ul{
+    list-style:none;
+    padding-left:15px;
+}
+li{
+    border-bottom:thin dashed #cccccc  ;
+    padding-top:3px;
+    padding-bottom:3px;
+}
+#arrow{
+    padding-right:5px;
+}
+.nav{
+    color:black;
+}
+#object-recipe{
+    background-color:white;
+    padding:1px 10px;
+    width:170px;
+}
+#section{
+    float:left;
+    margin-right:10px;
+}
+section{
+    clear:left;
+}
+#new-recipe{
+    background-color:white;
+    padding:1px 10px;
+    padding-bottom:110px;
+    width:580px;
+    margin-bottom:20px;
+}
+.item{
+    float:left;
+    width:110px;
+    margin-left:4px;
+}
+#item{
+    margin-left:14px;
+}
+.explanation{
+    font-size:10px;
+    margin-top:0px;
+}
+#japanese-food{
+    background-color:white;
+    padding:1px 10px;
+    padding-bottom:350px;
+    width:580px;
+    margin-bottom:20px;
+}
+.food-picture{
+    float:left;
+    margin-right:10px;
+}
+.sentence{
+    float:left;
+    width:340px;
+}
+.p-first{
+    margin-top:0px;
+}
+.read-more{
+    float:right;
+}
+.read-more-color{
+    color:#fc8833;
+}
+#easy-recipe{
+    background-color:white;
+    padding:1px 10px;
+    padding-bottom:420px;
+    width:580px;
+    margin-bottom:20px;
+}
+h3{
+    color:brown;
+    text-align:center;
+    margin-top:0px;
+    margin-bottom:10px;
+}
+.last-picture{
+    clear:both;
+}
+aside{
+    float:left;
+    width:140px;
+}
+#aside1{
+    float:left;
+    margin-bottom:10px;
+}
+#aside2{
+    float:left;
+}
+footer{
+     border-top:solid #cccccc 0.1px ;
+     background-color:white;
+     clear:left;
+     padding-bottom:25px;
+}
+#footer{
+    margin:0 auto;
+    width:500px;
+    margin-top:15px;
+}
+.footer{
+    color:black;
+    padding-right:10px;
+    padding-left:10px;
+    font-size:14px;
+}
+#copyright{
+    margin-left:140px;
+}
